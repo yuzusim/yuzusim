@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 
 <!--
@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 profile-3d-contrib/profile-green-animate.svg
 profile-3d-contrib/profile-green.svg
