@@ -24,6 +24,10 @@
 </div>
 
 
+## Tools
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white">
+</div>
 <!--
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
 **yuzusim/yuzusim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
