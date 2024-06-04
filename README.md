@@ -1,4 +1,4 @@
-![html5](https://github.com/yuzusim/yuzusim/assets/153582415/0d440b2e-2ea0-403d-9e22-3ec65e543bf6)### Hi there 👋
+### Hi there 👋
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzusim&show_icons=true&theme=buefy)
