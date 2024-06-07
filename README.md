@@ -9,10 +9,6 @@
 기간 : 2024.04.22 ~ 2024.05.20 ( 총 28일 )
 ___
 
-### Service
-
-___
-
 ## Team
 <table>
   <tr>
@@ -88,21 +84,18 @@ ___
     </td>
   </tr>
 </table>
-
 ___
 
-<!--
-### Hi there 👋
+### Service
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzusim&show_icons=true&theme=buefy)
-
--->
+___
 
 ## Tech Stack
 ### IDE
 <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellij idea&logoColor=white">
 
 ### FrameWork
+<!--정적뱃지-->
 <div style="display: flex; align-items: flex-start;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
@@ -147,7 +140,13 @@ ___
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
+
+
 <!--
+### Hi there 👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzusim&show_icons=true&theme=buefy)
+
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
   
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
