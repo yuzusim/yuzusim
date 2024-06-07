@@ -9,7 +9,7 @@
 ![332254268-f23d3830-2718-449d-af1f-d1a8154eb128](https://github.com/yuzusim/finalproject-dtomarket/assets/153582415/d8031adc-a123-4b6e-83f7-39a19da5d941)
 -->
 
-### <a href="https://github.com/yuzusim/finalproject-dtomarket" style=color-000000;> DTO Market - 과일의 신선함을 제공하는 쇼핑몰 사이트</a>
+### <a href="https://github.com/yuzusim/finalproject-dtomarket" style="color:#000000";> DTO Market - 과일의 신선함을 제공하는 쇼핑몰 사이트</a>
 기간 : 2024.04.22 ~ 2024.05.20 ( 총 28일 )
 ___
 
@@ -24,13 +24,13 @@ ___
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/yuzusim/yuzusim/assets/153582415/591430ea-4f3e-4fb6-8372-5519f630280a" alt="profile" width:"100" height="100" style="-max-width:100%;">
+      <img src="https://github.com/yuzusim/yuzusim/assets/153582415/591430ea-4f3e-4fb6-8372-5519f630280a" alt="profile" width:"100" height="100" style="max-width:100%;">
     </td>
     <td align="center">
-      <img src="https://github.com/yuzusim/yuzusim/assets/153582415/1a656ea0-794f-4aa7-ac95-6c0a70a71ff7" alt="profile" width:"100" height="100" style="-max-width:100%;">
+      <img src="https://github.com/yuzusim/yuzusim/assets/153582415/1a656ea0-794f-4aa7-ac95-6c0a70a71ff7" alt="profile" width:"100" height="100" style="max-width:100%;">
     </td>
     <td align="center">
-      <img src="https://github.com/yuzusim/yuzusim/assets/153582415/eb3fd0a8-69c5-4569-a8e8-6f9c5f555fdc" alt="profile" width:"100" height="100" style="-max-width:100%;">
+      <img src="https://github.com/yuzusim/yuzusim/assets/153582415/eb3fd0a8-69c5-4569-a8e8-6f9c5f555fdc" alt="profile" width:"100" height="100" style="max-width:100%;">
     </td>
   </tr>
   <tr>
