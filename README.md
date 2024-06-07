@@ -124,7 +124,7 @@ ___
 
 ### DB
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://img.shields.io/badge/h2-FF7143?style=for-the-badge&logo=h2 code&logoColor=white">
+  <img src="https://img.shields.io/badge/h2-C925D1?style=for-the-badge&logo=amazondocumentdb code&logoColor=white">
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />  #C925D1
 </div>
 
