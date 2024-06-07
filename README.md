@@ -152,32 +152,32 @@ ___
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-<ul style="display: flex; align-items: flex-start;">
-  <li style="list-style="none;>
+<div style="display: flex; align-items: flex-start;">
+  <div style="list-style="none;>
     <a href="https://flat-record-041.notion.site/f37f51d2bc184c54bebf4e22df4d36ba?pvs=4" target="_blank">
       <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
     </a>
-  </li>
-  <li>
+  </div>
+  <div>
     <a href="mailto:(yuzusim@gmail.com)" target="_blank" >
       <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=yuzusim@gmail.com">
     </a>
-  </li>
-  <li>
+  </div>
+  <div>
     <a href="https://flat-record-041.notion.site/f37f51d2bc184c54bebf4e22df4d36ba?pvs=4" target="_blank">
       <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white">
     </a>
-  </li>
-  <li>
+  </div>
+  <div>
     <a href="https://flat-record-041.notion.site/f37f51d2bc184c54bebf4e22df4d36ba?pvs=4" target="_blank">
       <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
     </a>
-  </li>
-  <li>
+  </div>
+  <div>
     <a href="https://flat-record-041.notion.site/f37f51d2bc184c54bebf4e22df4d36ba?pvs=4" target="_blank">
       <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
     </a>
-  </li>
+  </div>
   
 </ul>
 
