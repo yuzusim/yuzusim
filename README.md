@@ -122,13 +122,19 @@ ___
 
 ### DB
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://img.shields.io/badge/h2-C925D1?style=for-the-badge&logo=amazondocumentdb&logoColor=white">  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://img.shields.io/badge/h2-C925D1?style=for-the-badge&logo=amazondocumentdb&logoColor=white"><br>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
 </div>
 
 ### contact
 <div style="display: flex; align-items: flex-start;">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=for-the-badge&logo=kakaotalke&logoColor=white">
+  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack code&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git code&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white">
 
 </div>
 
