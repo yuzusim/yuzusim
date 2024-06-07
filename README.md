@@ -141,8 +141,10 @@ ___
 
 ### contact
 <div style="display: flex; align-items: flex-start;">
-  <a href="https://flat-record-041.notion.site/f37f51d2bc184c54bebf4e22df4d36ba?pvs=4" target="_blank" style="color:white">
+  <a href="https://flat-record-041.notion.site/f37f51d2bc184c54bebf4e22df4d36ba?pvs=4" target="_blank" style="color:--fgColor-accent: #ffffff;">
     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+
+        
   </a>
   <a href="mailto:(yuzusim@gmail.com)" target="_blank" >
     <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=yuzusim@gmail.com">
