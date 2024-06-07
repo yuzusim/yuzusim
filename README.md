@@ -10,6 +10,8 @@
 ___
 
 ## Team
+무한한 가능성을 지닌 부산의 열정적인 개발자들 DTO Market 입니다.
+
 <table>
   <tr>
     <th align="center">Team-Leader</th>
