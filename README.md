@@ -19,7 +19,7 @@ ___
 
  <tr>
     <td align="center">
-      <a>
+      <a style="background-color: transparent;">
         <img src="https://github.com/yuzusim/yuzusim/assets/153582415/591430ea-4f3e-4fb6-8372-5519f630280a" alt="profile" width:"100" height="100" style ="-max-width:100%;">
       </a>
       
