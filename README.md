@@ -17,7 +17,7 @@ ___
     <th></th>
   </tr>
 
- <tr style="background-color:#fff;">
+ <tr style="background-color:#fff;>
     <td style="background-color:#fff;">
       <img src="(https://github.com/yuzusim/yuzusim/assets/153582415/103d0427-9db1-4be2-8c31-f9f8b441872b" style ="width:100px;">
     </td>
