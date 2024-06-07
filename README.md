@@ -17,10 +17,19 @@ ___
     <th></th>
   </tr>
 
+ <tr>
+    <td>
+      ![Screenshot_12](https://github.com/yuzusim/yuzusim/assets/153582415/89ca49bd-a353-43e6-99d8-4f5380ba0886)
+    </td>
+
+    <td></td>
+    <td></td>
+  </tr>
+  
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>이서현</td>
+    <td>심유주</td>
+    <td>송채현</td>
   </tr>
   
 
