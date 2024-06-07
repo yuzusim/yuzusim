@@ -15,6 +15,8 @@ ___
     <th align="center">Team-Leader</th>
     <th align="center">Teammates</th>
     <th align="center">Teammates</th>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://github.com/yuzusim/yuzusim/assets/153582415/591430ea-4f3e-4fb6-8372-5519f630280a" alt="profile" width:"100" height="100" style="-max-width:100%;">
     </td>
@@ -24,9 +26,6 @@ ___
     <td align="center">
       <img src="https://github.com/yuzusim/yuzusim/assets/153582415/eb3fd0a8-69c5-4569-a8e8-6f9c5f555fdc" alt="profile" width:"100" height="100" style="-max-width:100%;">
     </td>
-  </tr>
-  <tr>
-    
   </tr>
   <tr>
     <td align="center">이서현</td>
@@ -89,29 +88,41 @@ ___
 -->
 
 ## Tech Stack
+### IDE
+<img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellij idea&logoColor=white">
+
+### FrameWork
 <div style="display: flex; align-items: flex-start;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </div>
 
-<!---->
+<!--동적뱃지-->
 <div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
 
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+  
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+  
 </div>
+
+### DB
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+</div>
+
+
 
 
 ## Tools
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellij idea&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
   <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/adobe photoshop-31A8FF?style=for-the-badge&logo=adobe photoshop code&logoColor=white">
