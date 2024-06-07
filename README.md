@@ -152,7 +152,7 @@ ___
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-<div style="display: flex; align-items: flex-start; float:left">
+<div style="display: flex; align-items: flex-start;">
   <div>
     <a href="https://flat-record-041.notion.site/f37f51d2bc184c54bebf4e22df4d36ba?pvs=4" target="_blank">
       <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
@@ -179,7 +179,7 @@ ___
     </a>
   </div>
   
-</ul>
+</div>
 
 
 
