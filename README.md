@@ -1,7 +1,8 @@
 ## Project
 
 ### DTO Market - 과일 판매 사이트
-![332254268-f23d3830-2718-449d-af1f-d1a8154eb128](https://github.com/yuzusim/yuzusim/assets/153582415/5baf2b47-f6d9-46ef-9eda-bc2f8c5b94c3)
+![332254268-f23d3830-2718-449d-af1f-d1a8154eb128](https://github.com/yuzusim/yuzusim/assets/153582415/d8031adc-a123-4b6e-83f7-39a19da5d941)
+
 
 
 ## Team
