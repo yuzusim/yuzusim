@@ -19,7 +19,7 @@ ___
 
  <tr>
     <td align="center">
-      <img src="https://github.com/yuzusim/yuzusim/assets/153582415/591430ea-4f3e-4fb6-8372-5519f630280a" alt="profile" width:"100" height="100" style="-max-width:100%; background-color: #fff">
+      <img src="https://github.com/yuzusim/yuzusim/assets/153582415/591430ea-4f3e-4fb6-8372-5519f630280a" alt="profile" width:"100" height="100" style="-max-width:100%;">
     </td>
     <td align="center">
       <img src="https://github.com/yuzusim/yuzusim/assets/153582415/1a656ea0-794f-4aa7-ac95-6c0a70a71ff7" alt="profile" width:"100" height="100" style="-max-width:100%;">
@@ -36,7 +36,48 @@ ___
   </tr>
 </table>
 
-
+## Team
+<table>
+  <tr>
+    <th>이름</th>
+    <th>이미지</th>
+    <th>역할</th>
+    <th>프론트 엔드</th>
+    <th>백엔드</th>
+  </tr>
+  <tr>
+    <td align="center">심유주</td>
+    <td align="center">
+      <img src="https://github.com/yuzusim/yuzusim/assets/153582415/1a656ea0-794f-4aa7-ac95-6c0a70a71ff7" alt="profile" width:"100" height="100" style="-max-width:100%;">    
+    </td>
+    <td align="center">
+      프론트엔드 팀장<br>
+       Full Stack
+    </td>
+    <td align="center">
+      구매자 로그인 페이지 디자인 및 퍼블리싱 <br>
+구매자 회원가입 디자인 및 퍼블리싱<br>
+구매자 회원가입수정 디자인 및 퍼블리싱<br>
+판매자 메인 페이지 및 애니메이션 구동 퍼블리싱<br>
+판매자 상품 상세 디자인 및 퍼블리싱<br>
+판매자 상품 등록 디자인 및 퍼블리싱<br>
+판매자 상품 수정, 삭제 디자인 및 퍼블리싱<br>
+장바구니 목록 디자인 및 퍼블리싱<br>
+내 주문현황보기 디자인 및 퍼블리싱<br>
+내 구매 목록보기 디자인 및 퍼블리싱
+    </td>
+    <td align="center">
+    구매자 회원가입 수정<br>
+판매자 상품 목록<br>
+판매자 상품 등록<br>
+로그은 관리자, 구매자, 비회원 헤더 설정<br>
+장바구니 목록 <br>
+장바구니 체크 박스 전송<br>
+장바구니 업데이트 (ajax)<br>
+주문 상품 목록
+    </td>
+  </tr>
+</table>
 
 
 
