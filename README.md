@@ -21,7 +21,7 @@ ___
     <td>
       <img src="https://github.com/yuzusim/yuzusim/assets/153582415/52fcfca4-6425-4fab-9e30-c19f3b14d88a">
 
-      ![Screenshot_12](https://github.com/yuzusim/yuzusim/assets/153582415/89ca49bd-a353-43e6-99d8-4f5380ba0886)
+      https://github.com/yuzusim/yuzusim/assets/153582415/89ca49bd-a353-43e6-99d8-4f5380ba0886
     </td>
 
     <td></td>
