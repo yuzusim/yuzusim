@@ -18,12 +18,15 @@ ___
   </tr>
 
  <tr>
-    <th>
-      <img src="https://github.com/yuzusim/yuzusim/assets/153582415/52fcfca4-6425-4fab-9e30-c19f3b14d88a" style ="width:100px; background-color:#fff;">
-    </th>
-
-    <td></td>
-    <td></td>
+    <td style="background-color:#fff;">
+      <img src="https://github.com/yuzusim/yuzusim/assets/153582415/52fcfca4-6425-4fab-9e30-c19f3b14d88a" style ="width:100px;">
+    </td>
+    <td style="background-color:#fff;">
+      <img src="https://github.com/yuzusim/yuzusim/assets/153582415/1a656ea0-794f-4aa7-ac95-6c0a70a71ff7" style ="width:100px;">
+    </td>
+    <td style="background-color:#fff;">
+      <img src="https://github.com/yuzusim/yuzusim/assets/153582415/ac694c14-b722-44aa-bba5-03c00b65accd" style ="width:100px;">
+    </td>
   </tr>
   
   <tr>
