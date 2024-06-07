@@ -18,21 +18,21 @@ ___
   </tr>
 
  <tr>
-    <th>
+    <td>
       <img src="https://github.com/yuzusim/yuzusim/assets/153582415/591430ea-4f3e-4fb6-8372-5519f630280a" style ="width:100px;">
-    </th>
-    <th>
+    </td>
+    <td>
       <img src="https://github.com/yuzusim/yuzusim/assets/153582415/1a656ea0-794f-4aa7-ac95-6c0a70a71ff7" style ="width:100px;">
-    </th>
-    <th>
+    </td>
+    <td>
       <img src="https://github.com/yuzusim/yuzusim/assets/153582415/eb3fd0a8-69c5-4569-a8e8-6f9c5f555fdc" style ="width:100px;">
-    </th>
+    </td>
   </tr>
   
-  <tr style="text-align:center">
-    <td>이서현</td>
-    <td>심유주</td>
-    <td>송채현</td>
+  <tr>
+    <td style="text-align:center">이서현</td>
+    <td style="text-align:center">심유주</td>
+    <td style="text-align:center">송채현</td>
   </tr>
   
 
