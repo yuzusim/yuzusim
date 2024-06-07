@@ -18,7 +18,7 @@ ___
   </tr>
 
  <tr>
-    <td align="center">
+    <td align="center" style="background-color: #ffffff;">
       <img src="https://github.com/yuzusim/yuzusim/assets/153582415/591430ea-4f3e-4fb6-8372-5519f630280a" alt="profile" width:"100" height="100" style="-max-width:100%;">
     </td>
     <td align="center">
