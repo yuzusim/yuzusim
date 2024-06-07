@@ -10,33 +10,30 @@
 ___
 
 ## Team
-<table align="center">
+<table>
   <tr>
-    <th>Team-Leader</th>
-    <th></th>
-    <th></th>
+    <th align="center">Team-Leader</th>
+    <th align="center">Teammates</th>
+    <th align="center">Teammates</th>
   </tr>
 
  <tr>
-    <td>
+    <td align="center">
       <img src="https://github.com/yuzusim/yuzusim/assets/153582415/591430ea-4f3e-4fb6-8372-5519f630280a" style ="width:100px;">
     </td>
-    <td>
+    <td align="center">
       <img src="https://github.com/yuzusim/yuzusim/assets/153582415/1a656ea0-794f-4aa7-ac95-6c0a70a71ff7" style ="width:100px;">
     </td>
-    <td>
+    <td align="center">
       <img src="https://github.com/yuzusim/yuzusim/assets/153582415/eb3fd0a8-69c5-4569-a8e8-6f9c5f555fdc" style ="width:100px;">
     </td>
   </tr>
   
   <tr>
     <td align="center">이서현</td>
-    <td style="text-align:center">심유주</td>
-    <td style="text-align:center">송채현</td>
+    <td align="center">심유주</td>
+    <td align="center">송채현</td>
   </tr>
-  
-
-  
 </table>
 
 
