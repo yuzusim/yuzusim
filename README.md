@@ -37,7 +37,9 @@ ___
 </table>
 
 ## My role
-<table>
+<table style="markdown-body table tr:nth-child(2n) {
+    background-color:none !important;
+}">
   <tr>
     <th>이름</th>
     <th>이미지</th>
@@ -81,8 +83,6 @@ ___
 </table>
 ___
 
-<style>\
-</style>
 
 <!--
 ### Hi there 👋
