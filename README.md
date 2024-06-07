@@ -77,8 +77,8 @@ ___
     </td>
   </tr>
 </table>
-___
 
+___
 
 <!--
 ### Hi there 👋
@@ -134,8 +134,7 @@ ___
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack code&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git code&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white">
-
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 </div>
 
 <!--
