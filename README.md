@@ -9,12 +9,12 @@
 ![332254268-f23d3830-2718-449d-af1f-d1a8154eb128](https://github.com/yuzusim/finalproject-dtomarket/assets/153582415/d8031adc-a123-4b6e-83f7-39a19da5d941)
 -->
 
-### <a href="https://github.com/yuzusim/finalproject-dtomarket"> DTO Market - 과일의 신선함을 제공하는 쇼핑몰 사이트</a>
+### <a href="https://github.com/yuzusim/finalproject-dtomarket" Color=white"> DTO Market - 과일의 신선함을 제공하는 쇼핑몰 사이트</a>
 기간 : 2024.04.22 ~ 2024.05.20 ( 총 28일 )
 ___
 
 ## Team
-무한한 가능성을 지닌 부산의 열정적인 개발자들 DTO Market 입니다.
+무한한 가능성을 지닌 부산의 열정적인 개발자들이 함께 한 DTO Market 입니다.
 
 <table>
   <tr>
