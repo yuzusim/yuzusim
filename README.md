@@ -18,9 +18,9 @@ ___
   </tr>
 
  <tr>
-    <td>
+    <th>
       <img src="https://github.com/yuzusim/yuzusim/assets/153582415/52fcfca4-6425-4fab-9e30-c19f3b14d88a" style ="width:100px; background-color:#fff;">
-    </td>
+    </th>
 
     <td></td>
     <td></td>
