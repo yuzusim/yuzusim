@@ -7,9 +7,10 @@
 <!--
 ![332254268-f23d3830-2718-449d-af1f-d1a8154eb128](https://github.com/yuzusim/yuzusim/assets/153582415/d8031adc-a123-4b6e-83f7-39a19da5d941)
 ![332254268-f23d3830-2718-449d-af1f-d1a8154eb128](https://github.com/yuzusim/finalproject-dtomarket/assets/153582415/d8031adc-a123-4b6e-83f7-39a19da5d941)
+### <a href="https://github.com/yuzusim/finalproject-dtomarket" target="_blank">DTO Market - 과일의 신선함을 제공하는 쇼핑몰 사이트</a>
 -->
 
-### <a href="https://github.com/yuzusim/finalproject-dtomarket" target="_blank">DTO Market - 과일의 신선함을 제공하는 쇼핑몰 사이트</a>
+### DTO Market - 과일의 신선함을 제공하는 쇼핑몰 사이트
 기간 : 2024.04.22 ~ 2024.05.20 ( 총 28일 )
 ___
 
@@ -141,10 +142,10 @@ ___
 ### contact
 <div style="display: flex; align-items: flex-start;">
   <a href="https://flat-record-041.notion.site/f37f51d2bc184c54bebf4e22df4d36ba?pvs=4" target="_blank" color:#000;>
-  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-    </a>
+    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  </a>
   <a href="mailto:(yuzusim@gmail.com)" target="_blank">
-  <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white">
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
