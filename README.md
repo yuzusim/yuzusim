@@ -19,7 +19,7 @@ ___
 
  <tr>
     <td>
-      <img src="https://github.com/yuzusim/yuzusim/assets/153582415/52fcfca4-6425-4fab-9e30-c19f3b14d88a" style ="width:100px; background-color:#fff">
+      <img src="https://github.com/yuzusim/yuzusim/assets/153582415/52fcfca4-6425-4fab-9e30-c19f3b14d88a" style ="width:100px; background-color:#fff;">
     </td>
 
     <td></td>
