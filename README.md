@@ -36,7 +36,7 @@ ___
   </tr>
 </table>
 
-## Team
+## My role in the project
 <table>
   <tr>
     <th>이름</th>
