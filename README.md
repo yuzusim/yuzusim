@@ -28,7 +28,7 @@
 <div style="display: flex; align-items: flex-start;">
   <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellij idea&logoColor=white">
   <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white">
-  <br>
+
   <img src="https://img.shields.io/badge/adobephotoshop 31A8FF?style=for-the-badge&logo=adobephotoshop code&logoColor=white">
   <img src="https://img.shields.io/badge/adobeillustrator FF9A00?style=for-the-badge&logo=adobeillustrator code&logoColor=white">
   <img src="https://img.shields.io/badge/adobexd FF61F6?style=for-the-badge&logo=adobexd code&logoColor=white">
