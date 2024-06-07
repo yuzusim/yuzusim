@@ -10,7 +10,7 @@
 ___
 
 ## Team
-<table style="text-align:center">
+<table align="center">
   <tr>
     <th>Team-Leader</th>
     <th></th>
@@ -30,7 +30,7 @@ ___
   </tr>
   
   <tr>
-    <td style="text-align:center">이서현</td>
+    <td align="center">이서현</td>
     <td style="text-align:center">심유주</td>
     <td style="text-align:center">송채현</td>
   </tr>
