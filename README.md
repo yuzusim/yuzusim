@@ -112,7 +112,7 @@ ___
   
 </div>
 
-## Tools
+### Tools
 <div style="display: flex; align-items: flex-start;">
   <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white">
   <img src="https://img.shields.io/badge/adobe photoshop-31A8FF?style=for-the-badge&logo=adobe photoshop&logoColor=white">
@@ -122,12 +122,10 @@ ___
 
 ### DB
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />  <img src="https://img.shields.io/badge/h2-C925D1?style=for-the-badge&logo=amazondocumentdb&logoColor=white"> 
-  
+  <img src="https://img.shields.io/badge/h2-C925D1?style=for-the-badge&logo=amazondocumentdb&logoColor=white">  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
 </div>
 
-
-## contact
+### contact
 <div style="display: flex; align-items: flex-start;">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
