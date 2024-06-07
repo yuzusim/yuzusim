@@ -18,15 +18,14 @@ ___
   </tr>
 
  <tr>
-    <td align="center" >
-      <a style="background-color: transparent;"><img src="https://github.com/yuzusim/yuzusim/assets/153582415/591430ea-4f3e-4fb6-8372-5519f630280a" alt="profile" width:"100" height="100" style ="-max-width:100%;"></a>
-        
+    <td align="center">
+      <img src="https://github.com/yuzusim/yuzusim/assets/153582415/591430ea-4f3e-4fb6-8372-5519f630280a" alt="profile" width:"100" height="100" style="-max-width:100%;">
     </td>
     <td align="center">
-      <img src="https://github.com/yuzusim/yuzusim/assets/153582415/1a656ea0-794f-4aa7-ac95-6c0a70a71ff7" alt="profile" width:"100" height="100" style ="-max-width:100%;">
+      <img src="https://github.com/yuzusim/yuzusim/assets/153582415/1a656ea0-794f-4aa7-ac95-6c0a70a71ff7" alt="profile" width:"100" height="100" style="-max-width:100%;">
     </td>
     <td align="center">
-      <img src="https://github.com/yuzusim/yuzusim/assets/153582415/eb3fd0a8-69c5-4569-a8e8-6f9c5f555fdc" alt="profile" width:"100" height="100" style ="-max-width:100%;">
+      <img src="https://github.com/yuzusim/yuzusim/assets/153582415/eb3fd0a8-69c5-4569-a8e8-6f9c5f555fdc" alt="profile" width:"100" height="100" style="-max-width:100%;">
     </td>
   </tr>
   
