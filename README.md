@@ -28,6 +28,10 @@
 <div style="display: flex; align-items: flex-start;">
   <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellij idea&logoColor=white">
   <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/adobe photoshop 31A8FF?style=for-the-badge&logo=adobe photoshop code&logoColor=white">
+  <img src="https://img.shields.io/badge/adobe illustrator FF9A00?style=for-the-badge&logo=adobe illustrator code&logoColor=white">
+  <img src="https://img.shields.io/badge/adobe xd FF61F6?style=for-the-badge&logo=adobe xd code&logoColor=white">
 </div>
 
 ## Social
