@@ -145,7 +145,7 @@ ___
     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   </a>
   <a href="mailto:(yuzusim@gmail.com)" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=yuzusim@gmail.com">
   </a>
  <a href="mailto:yuzusim@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yuzusim@gmail.com"/>
