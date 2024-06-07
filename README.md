@@ -142,7 +142,7 @@ ___
 ### contact
 <div style="display: flex; align-items: flex-start;">
   <a href="https://flat-record-041.notion.site/f37f51d2bc184c54bebf4e22df4d36ba?pvs=4" target="_blank" width="85" height="40" style="color: var(--none, var(--color-accent-fg));">
-    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+    <img src="https://img.shields.io/badge/notion-000000?style=flat-squar&logo=notion&logoColor=white">
   </a>
   <a href="mailto:(yuzusim@gmail.com)" target="_blank">
     <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
@@ -150,6 +150,8 @@ ___
   <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white">
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+  <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 </div>
 
 
