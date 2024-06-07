@@ -106,37 +106,39 @@ ___
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
 
-  
+ 
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
   
 </div>
 
-### DB
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-</div>
-
-
-
-
 ## Tools
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
   <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/adobe photoshop-31A8FF?style=for-the-badge&logo=adobe photoshop code&logoColor=white">
   <img src="https://img.shields.io/badge/adobe illustrator-FF9A00?style=for-the-badge&logo=adobe illustrator code&logoColor=white">
   <img src="https://img.shields.io/badge/adobe xd-FF61F6?style=for-the-badge&logo=adobe xd code&logoColor=white">
+
+  
 </div>
 
-## Social
+### DB
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://img.shields.io/badge/h2-FF7143?style=for-the-badge&logo=h2 code&logoColor=white">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />  #C925D1
+</div>
+
+
+## contact
 <div style="display: flex; align-items: flex-start;">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+
 </div>
 
 <!--
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+  
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
 **yuzusim/yuzusim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
