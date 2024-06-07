@@ -16,8 +16,7 @@ ___
     <th align="center">Teammates</th>
     <th align="center">Teammates</th>
   </tr>
-
-
+  <tr>
     <td align="center">
       <img src="https://github.com/yuzusim/yuzusim/assets/153582415/591430ea-4f3e-4fb6-8372-5519f630280a" alt="profile" width:"100" height="100" style="-max-width:100%;">
     </td>
@@ -27,8 +26,7 @@ ___
     <td align="center">
       <img src="https://github.com/yuzusim/yuzusim/assets/153582415/eb3fd0a8-69c5-4569-a8e8-6f9c5f555fdc" alt="profile" width:"100" height="100" style="-max-width:100%;">
     </td>
-
-  
+  </tr>
   <tr>
     <td align="center">이서현</td>
     <td align="center">심유주</td>
@@ -37,9 +35,7 @@ ___
 </table>
 
 ## My role
-<table style="markdown-body table tr:nth-child(2n) {
-    background-color:none !important;
-}">
+<table>
   <tr>
     <th>이름</th>
     <th>이미지</th>
@@ -47,7 +43,7 @@ ___
     <th>프론트 엔드</th>
     <th>백엔드</th>
   </tr>
-  <tr>
+  <tr style="background-color: transparent !important;">
     <td align="center">심유주</td>
     <td align="center">
       <img src="https://github.com/yuzusim/yuzusim/assets/153582415/1a656ea0-794f-4aa7-ac95-6c0a70a71ff7" alt="profile" width:"100" height="100" style="-max-width:100%;">    
