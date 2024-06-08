@@ -14,33 +14,6 @@
 기간 : 2024.04.22 ~ 2024.05.20 ( 총 28일 )
 ___
 
-## Team
-무한한 가능성을 지닌 부산의 열정적인 개발자들이 함께 한 DTO Market 입니다.
-
-<table>
-  <tr>
-    <th align="center">Team-Leader</th>
-    <th align="center">Teammates</th>
-    <th align="center">Teammates</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/yuzusim/yuzusim/assets/153582415/591430ea-4f3e-4fb6-8372-5519f630280a" alt="profile" width:"100" height="100" style="max-width:100%;">
-    </td>
-    <td align="center">
-      <img src="https://github.com/yuzusim/yuzusim/assets/153582415/1a656ea0-794f-4aa7-ac95-6c0a70a71ff7" alt="profile" width:"100" height="100" style="max-width:100%;">
-    </td>
-    <td align="center">
-      <img src="https://github.com/yuzusim/yuzusim/assets/153582415/eb3fd0a8-69c5-4569-a8e8-6f9c5f555fdc" alt="profile" width:"100" height="100" style="max-width:100%;">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">이서현</td>
-    <td align="center">심유주</td>
-    <td align="center">송채현</td>
-  </tr>
-</table>
-
 ## My role
 <table>
   <tr>
@@ -89,6 +62,33 @@ ___
       - 주문 상품 목록
       </p>
     </td>
+  </tr>
+</table>
+
+## Team
+무한한 가능성을 지닌 부산의 열정적인 개발자들이 함께 한 DTO Market 입니다.
+
+<table>
+  <tr>
+    <th align="center">Team-Leader</th>
+    <th align="center">Teammates</th>
+    <th align="center">Teammates</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/yuzusim/yuzusim/assets/153582415/591430ea-4f3e-4fb6-8372-5519f630280a" alt="profile" width:"100" height="100" style="max-width:100%;">
+    </td>
+    <td align="center">
+      <img src="https://github.com/yuzusim/yuzusim/assets/153582415/1a656ea0-794f-4aa7-ac95-6c0a70a71ff7" alt="profile" width:"100" height="100" style="max-width:100%;">
+    </td>
+    <td align="center">
+      <img src="https://github.com/yuzusim/yuzusim/assets/153582415/eb3fd0a8-69c5-4569-a8e8-6f9c5f555fdc" alt="profile" width:"100" height="100" style="max-width:100%;">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">이서현</td>
+    <td align="center">심유주</td>
+    <td align="center">송채현</td>
   </tr>
 </table>
 
