@@ -5,14 +5,12 @@
 </a>
 
 ### DTO Market - 과일의 신선함을 제공하는 쇼핑몰 사이트
-
+기간 : 2024.04.22 ~ 2024.05.20 ( 총 28일 ) <br>
 <div style="display: flex; align-items: flex-start;">
   <a href ="https://github.com/yuzusim/finalproject-dtomarket">
     <img src="https://img.shields.io/badge/githube-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
-<br>
-기간 : 2024.04.22 ~ 2024.05.20 ( 총 28일 )
 
 ___
 
