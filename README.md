@@ -110,6 +110,10 @@ ___
 |![main](https://github.com/yuzusim/yuzusim/assets/153582415/2642f6ca-c11a-4296-ac7e-599063dfc582)|![prod_list](https://github.com/yuzusim/yuzusim/assets/153582415/a612d924-fff8-41cc-a4ab-6236b40dceba)|
 |**상품 상세보기**|**장바구니**|
 |![cart_save](https://github.com/yuzusim/yuzusim/assets/153582415/081d1ea6-c56d-4a21-a5c9-2171c9b36faf)|![cart](https://github.com/yuzusim/yuzusim/assets/153582415/fc41829b-30bd-4b61-8525-b7ed1a8bbaeb)|
+|**상품 주문하기**|**주문 상품 목록보기**|
+|![ordersave](https://github.com/yuzusim/yuzusim/assets/153582415/e3ee9615-a305-493b-9efb-ba15790a1721)|![ordersavelist](https://github.com/yuzusim/yuzusim/assets/153582415/aa6f1217-1fe7-479b-82a2-b75b977ef435)|
+
+
 
 ### [판매자]
 |로그인|판매자 메인페이지|
