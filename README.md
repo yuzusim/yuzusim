@@ -68,10 +68,10 @@ ___
 ## Team
 무한한 가능성을 지닌 부산의 열정적인 개발자들이 함께 한 DTO Market 입니다.
 
-Team-Leader|Teammates|Teammates
----|---|---|
+|Team-Leader|Teammates|Teammates|
+|:---:|:---:|:---:|
 ![337755611-591430ea-4f3e-4fb6-8372-5519f630280a](https://github.com/yuzusim/yuzusim/assets/153582415/99e58679-aee7-4cbd-9829-a3371ebf1af9)|![337753652-1a656ea0-794f-4aa7-ac95-6c0a70a71ff7](https://github.com/yuzusim/yuzusim/assets/153582415/6cd6a48a-632f-4b64-a355-dca4378baac5)|![337754098-eb3fd0a8-69c5-4569-a8e8-6f9c5f555fdc](https://github.com/yuzusim/yuzusim/assets/153582415/54683f44-eb58-4030-827f-1abc68adaa38)|
-이서현|심유주|송채현|
+|이서현|심유주|송채현|
 
 <!--
 <table>
@@ -114,11 +114,12 @@ ___
 ### [판매자]
 |판매자 메인페이지|판매자 상품 목록보기|
 |:---:|:---:|
-|![main](https://github.com/yuzusim/yuzusim/assets/153582415/442279c9-6e82-45e6-a899-3f366c46d408)|![pd_list](https://github.com/yuzusim/yuzusim/assets/153582415/0acb25c0-a1f8-4be1-a9a4-c38ae796ae08)|
+|![main](https://github.com/yuzusim/yuzusim/assets/153582415/442279c9-6e82-45e6-a899-3f366c46d408)|![pd_list](https://github.com/yuzusim/yuzusim/assets/153582415/baac6243-36c1-43a6-ad15-818ccbb9d9b5)|
 |**상품 등록하기**|**상품 수정하기**|
-|![prod_save](https://github.com/yuzusim/yuzusim/assets/153582415/2b24ba9a-406c-4edf-96c2-7a8f12b7badc)|![prodo_update](https://github.com/yuzusim/yuzusim/assets/153582415/b7e8e54e-1794-49cb-9033-92ec6317f1a0)|
+|![prod_save](https://github.com/yuzusim/yuzusim/assets/153582415/a029d067-7eca-45db-b93d-d803caac7556)|![prodo_update](https://github.com/yuzusim/yuzusim/assets/153582415/6b9b8406-8c7b-4d64-983b-271d2470b4d2)|
 |**상품 삭제하기**|**주문상품관리**|
-|![prod_delete](https://github.com/yuzusim/yuzusim/assets/153582415/425d510e-826e-458d-8f3d-1f80fed6e1a1)
+|![prod_delete](https://github.com/yuzusim/yuzusim/assets/153582415/82ec9c2d-ea6f-4bef-ab63-b21e1754fdff)|
+
 
 
 <!--
