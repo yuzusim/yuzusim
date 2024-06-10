@@ -106,7 +106,7 @@ ___
 |:---:|:---:|
 |![login](https://github.com/yuzusim/yuzusim/assets/153582415/c3a10b6b-2305-4fd4-8d0f-60ac0fbf11a9)|![join](https://github.com/yuzusim/yuzusim/assets/153582415/a38bd9c5-bbff-4307-8cf8-66534c41824f)|
 |**메인페이지**|**상품 목록보기**|
-![main](https://github.com/yuzusim/yuzusim/assets/153582415/442279c9-6e82-45e6-a899-3f366c46d408)|![join](https://github.com/yuzusim/yuzusim/assets/153582415/a38bd9c5-bbff-4307-8cf8-66534c41824f)|
+![main](https://github.com/yuzusim/yuzusim/assets/153582415/442279c9-6e82-45e6-a899-3f366c46d408)|![prod_list](https://github.com/yuzusim/yuzusim/assets/153582415/8711123a-be53-4c24-a506-aac090ffbef8)|
 
 
 <!--
