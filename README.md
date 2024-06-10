@@ -111,11 +111,10 @@ ___
   
 </table>
 
-이름|영어|정보|수학
----|---|---|---|
-나동빈|98점|87점|100점|
-홍길동|97점|78점|93점|
-이순신|89점|93점|97점|
+로그인|회원가입
+---|---|
+<img src="https://github.com/yuzusim/yuzusim/assets/153582415/89cfa3c2-588c-4b76-bc9a-ed9ebeebb504" alt="" width:"250" height="250" style="max-width:100%;">|<img src="https://github.com/yuzusim/yuzusim/assets/153582415/89cfa3c2-588c-4b76-bc9a-ed9ebeebb504" alt="" width:"250" height="250" style="max-width:100%;">|
+
 
 
 ___
