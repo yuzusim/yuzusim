@@ -70,7 +70,7 @@ ___
 
 Team-Leader|Teammates|Teammates
 ---|---|---|
-![337755611-591430ea-4f3e-4fb6-8372-5519f630280a](https://github.com/yuzusim/yuzusim/assets/153582415/3e925d4a-f76f-4cbe-9794-58994ba8352f)|![337753652-1a656ea0-794f-4aa7-ac95-6c0a70a71ff7](https://github.com/yuzusim/yuzusim/assets/153582415/49bc9455-dcd1-405a-9110-e6669366f83e)|![337754098-eb3fd0a8-69c5-4569-a8e8-6f9c5f555fdc](https://github.com/yuzusim/yuzusim/assets/153582415/01afc39e-9c5f-4ef4-9de6-e9ce05af9705)|
+![337755611-591430ea-4f3e-4fb6-8372-5519f630280a](https://github.com/yuzusim/yuzusim/assets/153582415/3e925d4a-f76f-4cbe-9794-58994ba8352f width="100")|![337753652-1a656ea0-794f-4aa7-ac95-6c0a70a71ff7](https://github.com/yuzusim/yuzusim/assets/153582415/49bc9455-dcd1-405a-9110-e6669366f83e)|![337754098-eb3fd0a8-69c5-4569-a8e8-6f9c5f555fdc](https://github.com/yuzusim/yuzusim/assets/153582415/01afc39e-9c5f-4ef4-9de6-e9ce05af9705)|
 이서현|심유주|송채현|
 
 <!--
