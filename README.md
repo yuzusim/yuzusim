@@ -114,10 +114,8 @@ ___
 |판매자 메인페이지|판매자 상품 목록보기|
 |:---:|:---:|
 |![main](https://github.com/yuzusim/yuzusim/assets/153582415/442279c9-6e82-45e6-a899-3f366c46d408)|![pd_list](https://github.com/yuzusim/yuzusim/assets/153582415/0acb25c0-a1f8-4be1-a9a4-c38ae796ae08)|
-
 |**상품 등록하기**|**상품 수정하기**|
 |![prod_save](https://github.com/yuzusim/yuzusim/assets/153582415/2b24ba9a-406c-4edf-96c2-7a8f12b7badc)|![prodo_update](https://github.com/yuzusim/yuzusim/assets/153582415/b7e8e54e-1794-49cb-9033-92ec6317f1a0)|
-
 |**상품 삭제하기**|**주문상품관리**|
 |![prod_delete](https://github.com/yuzusim/yuzusim/assets/153582415/425d510e-826e-458d-8f3d-1f80fed6e1a1)
 
