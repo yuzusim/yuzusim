@@ -9,8 +9,8 @@
 <div style="display: flex; align-items: flex-start;">
   <a href ="https://github.com/yuzusim/finalproject-dtomarket">
     <img src="https://img.shields.io/badge/githube-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a> 👆
-</div>
+  </a>
+</div>👆
 
 ___
 
