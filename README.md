@@ -102,6 +102,7 @@ Team-Leader|Teammates|Teammates
 ___
 
 ## Service
+### [구매자]
 |로그인|회원가입|
 |:---:|:---:|
 |![login](https://github.com/yuzusim/yuzusim/assets/153582415/c3a10b6b-2305-4fd4-8d0f-60ac0fbf11a9)|![join](https://github.com/yuzusim/yuzusim/assets/153582415/a38bd9c5-bbff-4307-8cf8-66534c41824f)|
@@ -112,11 +113,13 @@ ___
 ### [판매자]
 |판매자 메인페이지|판매자 상품 목록보기|
 |:---:|:---:|
-![main](https://github.com/yuzusim/yuzusim/assets/153582415/442279c9-6e82-45e6-a899-3f366c46d408)|![pd_list](https://github.com/yuzusim/yuzusim/assets/153582415/0acb25c0-a1f8-4be1-a9a4-c38ae796ae08)|
+|![main](https://github.com/yuzusim/yuzusim/assets/153582415/442279c9-6e82-45e6-a899-3f366c46d408)|![pd_list](https://github.com/yuzusim/yuzusim/assets/153582415/0acb25c0-a1f8-4be1-a9a4-c38ae796ae08)|
 
-|**상품 등록 페이지**|**상품 수정**|
+|**상품 등록하기**|**상품 수정하기**|
+|![prod_save](https://github.com/yuzusim/yuzusim/assets/153582415/2b24ba9a-406c-4edf-96c2-7a8f12b7badc)|![prodo_update](https://github.com/yuzusim/yuzusim/assets/153582415/b7e8e54e-1794-49cb-9033-92ec6317f1a0)|
 
-|**상품 삭 페이지**|**주문상품관리**|
+|**상품 삭제하기**|**주문상품관리**|
+|![prod_delete](https://github.com/yuzusim/yuzusim/assets/153582415/425d510e-826e-458d-8f3d-1f80fed6e1a1)
 
 
 <!--
