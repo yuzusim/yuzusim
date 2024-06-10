@@ -101,7 +101,7 @@ ___
     <th align="center">회원가입</th>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" background="#ffffff">
        <img src="https://github.com/yuzusim/yuzusim/assets/153582415/89cfa3c2-588c-4b76-bc9a-ed9ebeebb504" alt="" width:"250" height="250" style="max-width:100%;">
     </td>
     <td align="center">
