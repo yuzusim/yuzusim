@@ -104,7 +104,8 @@ ___
 ## Service
 로그인|회원가입
 ---|---|
-![login](https://github.com/yuzusim/yuzusim/assets/153582415/c3a10b6b-2305-4fd4-8d0f-60ac0fbf11a9)|![login](https://github.com/yuzusim/yuzusim/assets/153582415/c3a10b6b-2305-4fd4-8d0f-60ac0fbf11a9)|
+![login](https://github.com/yuzusim/yuzusim/assets/153582415/c3a10b6b-2305-4fd4-8d0f-60ac0fbf11a9)|![join](https://github.com/yuzusim/yuzusim/assets/153582415/a38bd9c5-bbff-4307-8cf8-66534c41824f)
+
 
 <!--
 <table>
