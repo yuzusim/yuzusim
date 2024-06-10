@@ -103,7 +103,8 @@ ___
   <tr>
     <td align="center">
 
-       <img src="https://github.com/yuzusim/yuzusim/assets/153582415/618a83b6-559b-45d3-ab30-26a7609af817" alt="profile" width:"200" height="" style="max-width:100%;">
+       <img src="https://github.com/yuzusim/yuzusim/assets/153582415/89cfa3c2-588c-4b76-bc9a-ed9ebeebb504
+" alt="" width:"" height="" style="max-width:100%;">
 
     </td>
     <td align="center">
