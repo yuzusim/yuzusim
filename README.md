@@ -68,6 +68,12 @@ ___
 ## Team
 무한한 가능성을 지닌 부산의 열정적인 개발자들이 함께 한 DTO Market 입니다.
 
+Team-Leader|Teammates|Teammates
+---|---|---|
+![337755611-591430ea-4f3e-4fb6-8372-5519f630280a](https://github.com/yuzusim/yuzusim/assets/153582415/3e925d4a-f76f-4cbe-9794-58994ba8352f)|![337753652-1a656ea0-794f-4aa7-ac95-6c0a70a71ff7](https://github.com/yuzusim/yuzusim/assets/153582415/49bc9455-dcd1-405a-9110-e6669366f83e)|![337754098-eb3fd0a8-69c5-4569-a8e8-6f9c5f555fdc](https://github.com/yuzusim/yuzusim/assets/153582415/01afc39e-9c5f-4ef4-9de6-e9ce05af9705)|
+이서현|심유주|송채현|
+
+<!--
 <table>
   <tr>
     <th align="center">Team-Leader</th>
@@ -91,10 +97,16 @@ ___
     <td align="center">송채현</td>
   </tr>
 </table>
+-->
 
 ___
 
 ## Service
+로그인|회원가입
+---|---|
+![login](https://github.com/yuzusim/yuzusim/assets/153582415/c3a10b6b-2305-4fd4-8d0f-60ac0fbf11a9)|![login](https://github.com/yuzusim/yuzusim/assets/153582415/c3a10b6b-2305-4fd4-8d0f-60ac0fbf11a9)|
+
+<!--
 <table>
   <tr>
     <th align="center">로그인</th>
@@ -110,6 +122,7 @@ ___
   </tr>
   
 </table>
+-->
 
 로그인|회원가입
 ---|---|
