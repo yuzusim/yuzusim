@@ -112,13 +112,15 @@ ___
 |![cart_save](https://github.com/yuzusim/yuzusim/assets/153582415/081d1ea6-c56d-4a21-a5c9-2171c9b36faf)|![cart](https://github.com/yuzusim/yuzusim/assets/153582415/fc41829b-30bd-4b61-8525-b7ed1a8bbaeb)|
 
 ### [판매자]
-|판매자 메인페이지|판매자 상품 목록보기|
+|로그인|판매자 메인페이지|
 |:---:|:---:|
-|![main](https://github.com/yuzusim/yuzusim/assets/153582415/442279c9-6e82-45e6-a899-3f366c46d408)|![pd_list](https://github.com/yuzusim/yuzusim/assets/153582415/baac6243-36c1-43a6-ad15-818ccbb9d9b5)|
-|**상품 등록하기**|**상품 수정하기**|
-|![prod_save](https://github.com/yuzusim/yuzusim/assets/153582415/a029d067-7eca-45db-b93d-d803caac7556)|![prodo_update](https://github.com/yuzusim/yuzusim/assets/153582415/6b9b8406-8c7b-4d64-983b-271d2470b4d2)|
-|**상품 삭제하기**|**주문상품관리**|
-|![prod_delete](https://github.com/yuzusim/yuzusim/assets/153582415/82ec9c2d-ea6f-4bef-ab63-b21e1754fdff)|
+|![login](https://github.com/yuzusim/yuzusim/assets/153582415/d3815517-8569-42cc-8dab-7f97039cdbce)|![main](https://github.com/yuzusim/yuzusim/assets/153582415/2642f6ca-c11a-4296-ac7e-599063dfc582)|
+|**상품 목록보기**|**상품 등록하기**|
+![pd_list](https://github.com/yuzusim/yuzusim/assets/153582415/baac6243-36c1-43a6-ad15-818ccbb9d9b5)|![prod_save](https://github.com/yuzusim/yuzusim/assets/153582415/a029d067-7eca-45db-b93d-d803caac7556)|
+|**상품 수정하기**|**상품 삭제하기**|
+![prodo_update](https://github.com/yuzusim/yuzusim/assets/153582415/6b9b8406-8c7b-4d64-983b-271d2470b4d2)|![prod_delete](https://github.com/yuzusim/yuzusim/assets/153582415/82ec9c2d-ea6f-4bef-ab63-b21e1754fdff)|
+|**주문상품관리**|**코드**|
+
 
 
 
