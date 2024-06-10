@@ -113,7 +113,8 @@ ___
 
 로그인|회원가입
 ---|---|
-<img src="https://github.com/yuzusim/yuzusim/assets/153582415/89cfa3c2-588c-4b76-bc9a-ed9ebeebb504" alt="" width:"250" height="250" style="max-width:100%;">|<img src="https://github.com/yuzusim/yuzusim/assets/153582415/89cfa3c2-588c-4b76-bc9a-ed9ebeebb504" alt="" width:"250" height="250" style="max-width:100%;">|
+<img src="https://github.com/yuzusim/yuzusim/assets/153582415/89cfa3c2-588c-4b76-bc9a-ed9ebeebb504" alt="" width:"250" height="250" style="max-width:100%;">|
+<img src="https://github.com/yuzusim/yuzusim/assets/153582415/89cfa3c2-588c-4b76-bc9a-ed9ebeebb504" alt="" width:"250" height="250" style="max-width:100%;">|
 
 
 
