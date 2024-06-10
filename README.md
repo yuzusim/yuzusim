@@ -105,13 +105,11 @@ ___
 ### [구매자]
 |로그인|회원가입|
 |:---:|:---:|
-|![login](https://github.com/yuzusim/yuzusim/assets/153582415/c3a10b6b-2305-4fd4-8d0f-60ac0fbf11a9)|![join](https://github.com/yuzusim/yuzusim/assets/153582415/a38bd9c5-bbff-4307-8cf8-66534c41824f)|
+|![login](https://github.com/yuzusim/yuzusim/assets/153582415/d3815517-8569-42cc-8dab-7f97039cdbce)|![join](https://github.com/yuzusim/yuzusim/assets/153582415/6c241742-756f-48cf-8265-bc55f30fd06e)|
 |**메인페이지**|**상품 목록보기**|
-![main](https://github.com/yuzusim/yuzusim/assets/153582415/442279c9-6e82-45e6-a899-3f366c46d408)|![prod_list](https://github.com/yuzusim/yuzusim/assets/153582415/8711123a-be53-4c24-a506-aac090ffbef8)|
+|![main](https://github.com/yuzusim/yuzusim/assets/153582415/2642f6ca-c11a-4296-ac7e-599063dfc582)|![prod_list](https://github.com/yuzusim/yuzusim/assets/153582415/a612d924-fff8-41cc-a4ab-6236b40dceba)|
 |**상품 상세보기**|**장바구니**|
-|![cart_save](https://github.com/yuzusim/yuzusim/assets/153582415/c7602e08-db40-4d37-ae4f-724880b235a9)|![cart](https://github.com/yuzusim/yuzusim/assets/153582415/66bb4bea-88c4-4636-85c7-6f6ccd4359bf)|
-
-
+|![cart_save](https://github.com/yuzusim/yuzusim/assets/153582415/081d1ea6-c56d-4a21-a5c9-2171c9b36faf)|![cart](https://github.com/yuzusim/yuzusim/assets/153582415/fc41829b-30bd-4b61-8525-b7ed1a8bbaeb)|
 
 ### [판매자]
 |판매자 메인페이지|판매자 상품 목록보기|
