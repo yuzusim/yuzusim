@@ -10,7 +10,7 @@
   <a href ="https://github.com/yuzusim/finalproject-dtomarket">
     <img src="https://img.shields.io/badge/githube-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-</div>👆
+</div>
 
 ___
 
@@ -125,25 +125,6 @@ ___
 |![prodo_update](https://github.com/yuzusim/yuzusim/assets/153582415/6b9b8406-8c7b-4d64-983b-271d2470b4d2)|![prod_delete](https://github.com/yuzusim/yuzusim/assets/153582415/82ec9c2d-ea6f-4bef-ab63-b21e1754fdff)|
 |**주문상품관리**|**코드**|
 |![orderlist](https://github.com/yuzusim/yuzusim/assets/153582415/32d09d63-dd0c-4f2d-becd-0ea179bcface)|<a href="https://github.com/yuzusim/finalproject-dtomarket"><img src="https://img.shields.io/badge/githube-181717?style=for-the-badge&logo=github&logoColor=white"></a><br> 👆
-
-
-<!--
-<table>
-  <tr>
-    <th align="center">로그인</th>
-    <th align="center">회원가입</th>
-  </tr>
-  <tr style="background-color: var(--bgColor-transparent);">
-    <td align="center" background="#ffffff"  style="padding:0">
-       <img src="https://github.com/yuzusim/yuzusim/assets/153582415/89cfa3c2-588c-4b76-bc9a-ed9ebeebb504" alt="" width:"250" height="250" style="max-width:100%;">
-    </td>
-    <td align="center">
-      
-    </td>
-  </tr>
-  
-</table>
--->
 
 ___
 
