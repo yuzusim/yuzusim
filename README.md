@@ -100,7 +100,8 @@ ___
     <th align="center">로그인</th>
     <th align="center">회원가입</th>
   </tr>
-  <tr>
+  <tr style="background-color: var(--bgColor-muted, var(--color-canvas-subtle));
+}">
     <td align="center" background="#ffffff"  style="padding:0">
        <img src="https://github.com/yuzusim/yuzusim/assets/153582415/89cfa3c2-588c-4b76-bc9a-ed9ebeebb504" alt="" width:"250" height="250" style="max-width:100%;">
     </td>
