@@ -109,6 +109,16 @@ ___
 ![main](https://github.com/yuzusim/yuzusim/assets/153582415/442279c9-6e82-45e6-a899-3f366c46d408)|![prod_list](https://github.com/yuzusim/yuzusim/assets/153582415/8711123a-be53-4c24-a506-aac090ffbef8)|
 
 
+## [판매자]
+|판매자 메인페이지|판매자 상품 목록보기|
+|:---:|:---:|
+![main](https://github.com/yuzusim/yuzusim/assets/153582415/442279c9-6e82-45e6-a899-3f366c46d408)|![prod_list](https://github.com/yuzusim/yuzusim/assets/153582415/8711123a-be53-4c24-a506-aac090ffbef8)|
+
+|**상품 등록 페이지**|**상품 수정**|
+
+|**상품 삭 페이지**|**주문상품관리**|
+
+
 <!--
 <table>
   <tr>
