@@ -70,8 +70,7 @@ ___
 
 Team-Leader|Teammates|Teammates
 ---|---|---|
-<img src="https://github.com/yuzusim/yuzusim/assets/153582415/3e925d4a-f76f-4cbe-9794-58994ba8352f width="100">
-![337755611-591430ea-4f3e-4fb6-8372-5519f630280a](https://github.com/yuzusim/yuzusim/assets/153582415/3e925d4a-f76f-4cbe-9794-58994ba8352f width="100")|![337753652-1a656ea0-794f-4aa7-ac95-6c0a70a71ff7](https://github.com/yuzusim/yuzusim/assets/153582415/49bc9455-dcd1-405a-9110-e6669366f83e)|![337754098-eb3fd0a8-69c5-4569-a8e8-6f9c5f555fdc](https://github.com/yuzusim/yuzusim/assets/153582415/01afc39e-9c5f-4ef4-9de6-e9ce05af9705)|
+![337755611-591430ea-4f3e-4fb6-8372-5519f630280a](https://github.com/yuzusim/yuzusim/assets/153582415/99e58679-aee7-4cbd-9829-a3371ebf1af9)|![337753652-1a656ea0-794f-4aa7-ac95-6c0a70a71ff7](https://github.com/yuzusim/yuzusim/assets/153582415/6cd6a48a-632f-4b64-a355-dca4378baac5)|![337754098-eb3fd0a8-69c5-4569-a8e8-6f9c5f555fdc](https://github.com/yuzusim/yuzusim/assets/153582415/54683f44-eb58-4030-827f-1abc68adaa38)|
 이서현|심유주|송채현|
 
 <!--
