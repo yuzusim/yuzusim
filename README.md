@@ -95,6 +95,23 @@ ___
 ___
 
 ## Service
+<table>
+  <tr>
+    <th align="center">로그인</th>
+    <th align="center">회원가입</th>
+  </tr>
+  <tr>
+    <td align="center">
+
+       <img src="https://github.com/yuzusim/yuzusim/assets/153582415/618a83b6-559b-45d3-ab30-26a7609af817" alt="profile" width:"200" height="" style="max-width:100%;">
+
+    </td>
+    <td align="center">
+      
+    </td>
+  </tr>
+  
+</table>
 
 ___
 
