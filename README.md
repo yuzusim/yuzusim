@@ -13,11 +13,11 @@
 ### DTO Market - 과일의 신선함을 제공하는 쇼핑몰 사이트
 기간 : 2024.04.22 ~ 2024.05.20 ( 총 28일 )<br>
 <div style="display: flex; align-items: flex-start;">
-  
   <a href ="https://github.com/yuzusim/finalproject-dtomarket">
     <img src="https://img.shields.io/badge/githube-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
+
 ___
 
 ## My role
@@ -130,7 +130,11 @@ ___
 |**상품 수정하기**|**상품 삭제하기**|
 |![prodo_update](https://github.com/yuzusim/yuzusim/assets/153582415/6b9b8406-8c7b-4d64-983b-271d2470b4d2)|![prod_delete](https://github.com/yuzusim/yuzusim/assets/153582415/82ec9c2d-ea6f-4bef-ab63-b21e1754fdff)|
 |**주문상품관리**|**코드**|
-|![orderlist](https://github.com/yuzusim/yuzusim/assets/153582415/32d09d63-dd0c-4f2d-becd-0ea179bcface)|
+|![orderlist](https://github.com/yuzusim/yuzusim/assets/153582415/32d09d63-dd0c-4f2d-becd-0ea179bcface)|<div style="display: flex; align-items: flex-start;">
+  <a href ="https://github.com/yuzusim/finalproject-dtomarket">
+    <img src="https://img.shields.io/badge/githube-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
 
 
 
