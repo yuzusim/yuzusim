@@ -10,10 +10,10 @@
 ## 💻 Project
 |Project|Framework|
 |:---:|:---:|
-|!SpringBoot 블로그|!|
-|!구직사이트 SSR|!|
-|!구직사이트 CSR|!|
-|!쇼핑몰사이트 SSR|!|
+|SpringBoot 블로그|!|
+|구직사이트 SSR|!|
+|구직사이트 CSR|!|
+|쇼핑몰사이트 SSR|!|
 
 
 
