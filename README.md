@@ -7,7 +7,7 @@
   [![My Skills](https://skillicons.dev/icons?i=idea,vscode,ps,ai,xd,git,github,notion)](https://skillicons.dev)
 
 
-## Project
+## 💻 Project
 
 
 ## Contact
