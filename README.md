@@ -1,10 +1,9 @@
 
 ## ⚒️ Languages-FrameWorks-Tools ⚒️ 
-<div style="display: flex; align-items: flex-start;">
   [![My Skills](https://skillicons.dev/icons?i=java,spring,gradle,mysql,postman,aws)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=jquery,js,html,css,bootstra)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,ps,ai,xd,git)](https://skillicons.dev)
-</div>
+  [![My Skills](https://skillicons.dev/icons?i=idea,vscode,ps,ai,xd,git)](https://skillicons.dev)
+
 
 <!--
 ### FrameWork
