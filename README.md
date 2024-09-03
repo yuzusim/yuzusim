@@ -1,13 +1,15 @@
 
 ## ⚒️ Languages-FrameWorks-Tools ⚒️ 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,gradle,mysql,postman,aws)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=jquery,js,html,css,bootstra)](https://skillicons.dev)
+<div style="display: flex; align-items: flex-start;">
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,gradle,mysql,postman,aws)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=jquery,js,html,css,bootstra)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,ps,ai,xd,git)](https://skillicons.dev)
+</div>
 
 <!--
 ### FrameWork
 <!--Tech Stack -->
-<!--정적뱃지-->
+<!--정적뱃지
 <div style="display: flex; align-items: flex-start;">
   <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
   <img src="https://img.shields.io/badge/JPA-E34F26?style=for-the-badge&logo=spring&logoColor=white">
@@ -17,21 +19,22 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   
 </div>
+-->
 
-<!--동적뱃지-->
+<!--동적뱃지
 <div style="display: flex; align-items: flex-start;">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 </div>
-
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,spring)](https://skillicons.dev)
-
+-->
 
 
 ### Tools
+### DB
+
+<!--
 <div style="display: flex; align-items: flex-start;">
   <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellij idea&logoColor=white">
   <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white">
@@ -40,7 +43,7 @@
   <img src="https://img.shields.io/badge/adobe xd-FF61F6?style=for-the-badge&logo=adobe xd&logoColor=white">
 </div>
 
-### DB
+
 <div style="display: flex; align-items: flex-start;">
   <img src="https://img.shields.io/badge/h2-C925D1?style=for-the-badge&logo=amazondocumentdb&logoColor=white"><br>
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
