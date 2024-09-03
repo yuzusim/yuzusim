@@ -11,6 +11,7 @@
 
 
 ## Contact
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
 
 <!--
 ### FrameWork
