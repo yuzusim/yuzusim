@@ -1,5 +1,4 @@
 
---
 ## Tech Stack
 ### IDE
 <div style="display: flex; align-items: flex-start;">
