@@ -7,6 +7,8 @@
 
 <!--
 ### FrameWork
+### Tools
+### DB
 <!--Tech Stack -->
 <!--정적뱃지
 <div style="display: flex; align-items: flex-start;">
@@ -28,10 +30,6 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 </div>
 -->
-
-
-### Tools
-### DB
 
 <!--
 <div style="display: flex; align-items: flex-start;">
