@@ -23,6 +23,9 @@
 </div>
 
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,spring)](https://skillicons.dev)
+
+
 
 ### Tools
 <div style="display: flex; align-items: flex-start;">
