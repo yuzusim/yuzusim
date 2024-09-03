@@ -10,7 +10,7 @@
 ## 💻 Project
 |Project|Framework|
 |:---:|:---:|
-<!--|**메인페이지**|**상품 목록보기**|-->
+|![login](https://github.com/yuzusim/yuzusim/assets/153582415/d3815517-8569-42cc-8dab-7f97039cdbce)|![join](https://github.com/yuzusim/yuzusim/assets/153582415/6c241742-756f-48cf-8265-bc55f30fd06e)|
 |!SpringBoot 블로그|!|
 |!구직사이트 SSR|!|
 |!구직사이트 CSR|!|
