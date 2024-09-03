@@ -1,6 +1,6 @@
 
 ## ⚒️ Languages-FrameWorks-Tools ⚒️ 
-  [![My Skills](https://skillicons.dev/icons?i=jquery,js,html,css,bootstrap)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,js,html,css,bootstrap,jquery)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=java,spring,gradle,mysql,postman,aws)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=idea,vscode,ps,ai,xd,git)](https://skillicons.dev)
 
