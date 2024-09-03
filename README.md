@@ -1,6 +1,10 @@
 
 ## ⚒️ Languages-FrameWorks-Tools ⚒️ 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,gradle,mysql,postman,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jquery,js,html,css,bootstra)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,ps,ai,xd,git)](https://skillicons.dev)
 
+<!--
 ### FrameWork
 <!--Tech Stack -->
 <!--정적뱃지-->
@@ -41,6 +45,7 @@
   <img src="https://img.shields.io/badge/h2-C925D1?style=for-the-badge&logo=amazondocumentdb&logoColor=white"><br>
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
 </div>
+-->
 
 ## contact
 <div style="display: flex; align-items: flex-start;">
