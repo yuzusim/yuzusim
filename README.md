@@ -1,11 +1,17 @@
 ## Hi there 👋
 
 ## ⚒️ Languages-FrameWorks-Tools ⚒️ 
- <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery">
+<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery">
+<img src="https://skillicons.dev/icons?i=java,spring&theme=light">
+<img src="https://skillicons.dev/icons?i=gradle,mysql,postman,aws">
+<img src="https://skillicons.dev/icons?i=idea,vscode,ps,ai,xd,git,github,notion">
+
+ <!--
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=java,spring&theme=light)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=gradle,mysql,postman,aws)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=idea,vscode,ps,ai,xd,git,github,notion)](https://skillicons.dev)
+ -->
 
 
 ## 💻 Project
