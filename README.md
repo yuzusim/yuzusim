@@ -22,11 +22,7 @@
 |SpringBoot 블로그|!|
 |<a href="https://github.com/yuzusim/project-grow" target="_blank">GROW - 휴먼 클라우드 플랫폼(SSR프로젝트)</a>|<div style="display: flex; align-items: flex-start;">
 <img src="https://img.shields.io/badge/spring boot-6DB33F?style=flat&logo=spring boot&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flate&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/JPA-E34F26?style=flat&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=flate&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/JPA-E34F26?style=flat&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white">
 </div>|
 |<a href="https://github.com/yuzusim/spring-grow-restapi" target="_blank">GROW - 휴먼 클라우드 플랫폼(RESTFUL API 변환 프로젝트)</a>|!|
 |<a href="https://github.com/yuzusim/finalproject-dtomarket" target="_blank">GROW - DTO Market - 쇼핑몰 플랫폼(SSR 프로젝트))</a>||
