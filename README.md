@@ -25,7 +25,7 @@
 
 
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-F46D01?style=flat&logo=OpenJDK&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
 
