@@ -24,6 +24,9 @@
 |<a href="https://github.com/yuzusim/finalproject-dtomarket" target="_blank">DTO Market - 쇼핑몰 플랫폼<br>(SSR 프로젝트))</a>||
 
 
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+
+
 <!--
 <div style="display: flex; align-items: flex-start;">
   <img src="https://img.shields.io/badge/spring boot-6DB33F?style=flat&logo=spring boot&logoColor=white">
