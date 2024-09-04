@@ -19,9 +19,9 @@
 ## 📧 Contact
 [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
 
-<a href="mailto:(yuzusim@gmail.com)" target="_blank" >
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
+[![My Skills]<a href="mailto:(yuzusim@gmail.com)" target="_blank" >(https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
 </a>
+
 
 <!--
 ### FrameWork
