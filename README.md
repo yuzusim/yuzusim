@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## ⚒️ Languages-FrameWorks-Tools ⚒️ 
-<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,java,spring&theme=ligh">
+<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,java&theme=ligh,spring&theme=ligh">
 
 
 <img src="https://skillicons.dev/icons?i=idea,vscode,ps,ai,xd,git,github,notion">
