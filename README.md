@@ -6,6 +6,9 @@
    <img src="https://skillicons.dev/icons?i=java,spring&theme=light">
    <img src="https://skillicons.dev/icons?i=gradle,mysql,postman,aws">
    <img src="https://skillicons.dev/icons?i=idea,vscode,ps,ai,xd,git,github,notion">
+   <a href="https://flat-record-041.notion.site/f37f51d2bc184c54bebf4e22df4d36ba?pvs=4" target="_blank" >
+      <img src="https://skillicons.dev/icons?i=notion">
+</a>
 </div>
 
  <!--
@@ -27,10 +30,6 @@
 ## 📧 Contact
 <a href="mailto:(yuzusim@gmail.com)" target="_blank" >
       <img src="https://skillicons.dev/icons?i=gmail">
-</a>
-
-<a href="https://flat-record-041.notion.site/f37f51d2bc184c54bebf4e22df4d36ba?pvs=4" target="_blank" >
-      <img src="https://skillicons.dev/icons?i=notion">
 </a>
 
 
