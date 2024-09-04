@@ -11,7 +11,7 @@
 |Project|Framework|
 |:---:|:---:|
 |SpringBoot 블로그|!|
-|구직사이트 SSR|!|
+|<a href="https://github.com/yuzusim/project-grow" target="_blank">GROW - 휴먼 클라우드 플랫폼 (SSR프로젝트)</a>|!|
 |구직사이트 CSR|!|
 |쇼핑몰사이트 SSR|!|
 
