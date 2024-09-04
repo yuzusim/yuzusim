@@ -5,10 +5,10 @@
    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery">
    <img src="https://skillicons.dev/icons?i=java,spring&theme=light">
    <img src="https://skillicons.dev/icons?i=gradle,mysql,postman,aws">
-   <img src="https://skillicons.dev/icons?i=idea,vscode,ps,ai,xd,git,github,notion">
+   <img src="https://skillicons.dev/icons?i=idea,vscode,ps,ai,xd,git,github">
    <a href="https://flat-record-041.notion.site/f37f51d2bc184c54bebf4e22df4d36ba?pvs=4" target="_blank" >
       <img src="https://skillicons.dev/icons?i=notion">
-</a>
+   </a>
 </div>
 
  <!--
@@ -34,38 +34,10 @@
 
 
 <!--
-## contact
-<div style="display: flex; align-items: flex-start;">
-  <a href="mailto:(yuzusim@gmail.com)" target="_blank" >
-    <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=yuzusim@gmail.com">
-  </a>
-  
-  <div>
-    <a href="mailto:(yuzusim@gmail.com)" target="_blank" >
-      <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=yuzusim@gmail.com">
-    </a>
-    <a href="mailto:(yuzusim@gmail.com)" target="_blank" >
-      <img src="https://skillicons.dev/icons?i=gmail">
-    </a>
-
-    https://skillicons.dev/icons?i=gmail
-  </div>
-  <div>
-    <a href="https://flat-record-041.notion.site/f37f51d2bc184c54bebf4e22df4d36ba?pvs=4" target="_blank">
-      <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white">
-    </a>
-  </div>
-
--->
-
-
-<!--
 ### Hi there 👋
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzusim&show_icons=true&theme=buefy)
-
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
-  
+
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
 **yuzusim/yuzusim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -79,21 +51,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-profile-3d-contrib/profile-green-animate.svg
-profile-3d-contrib/profile-green.svg
-profile-3d-contrib/profile-season-animate.svg
-profile-3d-contrib/profile-season.svg
-profile-3d-contrib/profile-south-season-animate.svg
-profile-3d-contrib/profile-south-season.svg
-profile-3d-contrib/profile-night-view.svg
-profile-3d-contrib/profile-night-green.svg
-profile-3d-contrib/profile-night-rainbow.svg
-profile-3d-contrib/profile-gitblock.svg
-
-profile-3d-contrib/profile-customize.svg
-
 -->
