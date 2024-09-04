@@ -17,8 +17,6 @@
 
 
 ## 📧 Contact
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
-
 <a href="mailto:(yuzusim@gmail.com)" target="_blank" >
       <img src="https://skillicons.dev/icons?i=gmail">
     </a>
