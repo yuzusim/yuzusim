@@ -13,8 +13,7 @@
 |SpringBoot 블로그|!|
 |<a href="https://github.com/yuzusim/project-grow" target="_blank">GROW - 휴먼 클라우드 플랫폼(SSR프로젝트)</a>|!|
 |<a href="https://github.com/yuzusim/spring-grow-restapi" target="_blank">GROW - 휴먼 클라우드 플랫폼(RESTFUL API 변환 프로젝트)(SSR프로젝트)</a>|!|
-|<a href="https://github.com/yuzusim/finalproject-dtomarket" target="_blank">GROW - DTO Market - 쇼핑몰 플랫폼(SSR 프로젝트))</a>
-R|!|
+|<a href="https://github.com/yuzusim/finalproject-dtomarket" target="_blank">GROW - DTO Market - 쇼핑몰 플랫폼(SSR 프로젝트))</a>|!|
 
 
 
