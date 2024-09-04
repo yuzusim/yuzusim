@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ## ⚒️ Languages-FrameWorks-Tools ⚒️ 
-<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery">
-<img src="https://skillicons.dev/icons?i=java,spring&theme=light">
-<img src="https://skillicons.dev/icons?i=gradle,mysql,postman,aws">
+<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,java,spring&theme=ligh,gradle,mysql,postman,aws,idea,vscode,ps,ai,xd,git,github,notion">
+
+
 <img src="https://skillicons.dev/icons?i=idea,vscode,ps,ai,xd,git,github,notion">
 
  <!--
