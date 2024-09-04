@@ -2,12 +2,10 @@
 
 ## ⚒️ Languages-FrameWorks-Tools ⚒️ 
 <div style="display: flex; align-items: flex-start;">
-<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery">
-<img src="https://skillicons.dev/icons?i=java,spring&theme=light">
-
-
-<img src="https://skillicons.dev/icons?i=idea,vscode,ps,ai,xd,git,github,notion">
- 
+   <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery">
+   <img src="https://skillicons.dev/icons?i=java,spring&theme=light">
+   <img src="https://skillicons.dev/icons?i=gradle,mysql,postman,aws">
+   <img src="https://skillicons.dev/icons?i=idea,vscode,ps,ai,xd,git,github,notion">
 </div>
 
  <!--
