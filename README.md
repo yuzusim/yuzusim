@@ -9,7 +9,7 @@
    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery">
    <img src="https://skillicons.dev/icons?i=java,spring&theme=light">
    <img src="https://skillicons.dev/icons?i=gradle,mysql,postman,aws">
-   <img src="https://skillicons.dev/icons?i=idea,vscode,ps,ai,xd,git,github">
+   <img src="https://skillicons.dev/icons?i=idea,vscode,ps,ai,xd,figma,git,github">
    <a href="https://flat-record-041.notion.site/f37f51d2bc184c54bebf4e22df4d36ba?pvs=4" target="_blank" >
       <img src="https://skillicons.dev/icons?i=notion">
    </a>
